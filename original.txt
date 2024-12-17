@@ -4,7 +4,7 @@
 # Notes: The Operating System does not read the "#" symbol #
 # or anything after the # symbol on the same line          #
 #                                                          #
-# This *must* be the first line: 127.0.0.1     localhost   #
+# This MUST be the first line: 127.0.0.1 localhost         #
 #                                                          #
 ############################################################
 # -------------- Updated: March-06-2021 ------------------ #
