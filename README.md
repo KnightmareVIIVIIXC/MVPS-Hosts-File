@@ -32,4 +32,4 @@ By incorporating a well-maintained Hosts file into your online security strategy
 
 #### Example: `0.0.0.0 ad.doubleclick.net`
 
-The example entry blocks all files supplied by that DoubleClick Server to the web page you are viewing. This also prevents the server from tracking your movements. In certain cases "Ad Servers" like Doubleclick (and many others) will try silently to open a separate connection on the webpage you are viewing, record your movements, and follow you to additional sites you may visit.
+Blocking the example entry in your Hosts file prevents this ad server from loading ads and tracking your browsing activity on the current webpage, and potentially across other sites you visit.
