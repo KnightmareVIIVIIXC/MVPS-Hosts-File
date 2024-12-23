@@ -7,7 +7,7 @@ You can use a modified HOSTS file to block ads, banners, 3rd party Cookies, 3rd 
 
 ---
 
-### Example: 0.0.0.0 ad.doubleclick.net
+### Example: `0.0.0.0 ad.doubleclick.net`
 
 The example entry blocks all files supplied by that DoubleClick Server to the web page you are viewing. This also prevents the server from tracking your movements. In certain cases "Ad Servers" like Doubleclick (and many others) will try silently to open a separate connection on the webpage you are viewing, record your movements, and follow you to additional sites you may visit.
 
