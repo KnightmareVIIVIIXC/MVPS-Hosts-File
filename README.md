@@ -30,6 +30,6 @@ By incorporating a well-maintained Hosts file into your online security strategy
 
 ---
 
-#### Example: `0.0.0.0 ad.doubleclick.net`
+#### Example: `0.0.0.0 ad.domain.tld`
 
 Blocking the example entry in your Hosts file prevents this ad server from loading ads and tracking your browsing activity on the current webpage, and potentially across other sites you visit.
