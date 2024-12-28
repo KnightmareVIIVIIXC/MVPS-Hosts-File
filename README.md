@@ -10,7 +10,7 @@ A modified Hosts file offers a powerful defense against online nuisances. By red
 - Page Counters and Web Bugs: Minimize data collection and privacy intrusions.
 - Hijackers and Potentially Unwanted Programs: Reduce the risk of malicious software installations.
 
-### How it Works:
+### How it Works
 
 The Hosts file is a crucial system file that maps domain names to IP addresses. When you visit a website, your computer first checks this file for an entry. If a match is found, the connection is redirected to the specified address, often "0.0.0.0," effectively blocking the request. This streamlined process:
 
@@ -21,7 +21,7 @@ The Hosts file is a crucial system file that maps domain names to IP addresses. 
 > [!NOTE]  
 > While a modified Hosts file provides a valuable layer of protection, it's not a foolproof solution against all online threats.
 
-### Key Benefits:
+### Key Benefits
 - Improved Browsing Experience: Enjoy a faster, cleaner, and more distraction-free web browsing experience.
 - Enhanced Privacy: Protect your personal information from unwanted tracking and data mining.
 - Increased Security: Reduce the risk of malware infections and online threats.
