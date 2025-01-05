@@ -18,15 +18,15 @@ The Hosts file is a crucial system file that maps domain names to IP addresses. 
 - Enhances Privacy: Reduces tracking and data collection by third-party entities.
 - Bolsters Security: Minimizes the risk of encountering malicious websites and software.
 
-> [!NOTE]  
-> While a modified Hosts file provides a valuable layer of protection, it's not a foolproof solution against all online threats.
-
 ### Key Benefits
 - Improved Browsing Experience: Enjoy a faster, cleaner, and more distraction-free web browsing experience.
 - Enhanced Privacy: Protect your personal information from unwanted tracking and data mining.
 - Increased Security: Reduce the risk of malware infections and online threats.
 
 By incorporating a well-maintained Hosts file into your online security strategy, you can significantly enhance your browsing experience while safeguarding your privacy and security.
+
+> [!NOTE]  
+> While a modified Hosts file provides a valuable layer of protection, it's not a foolproof solution against all online threats.
 
 ---
 
