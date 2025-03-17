@@ -47,9 +47,6 @@ Blocking the example entry in your Hosts file prevents this ad server from loadi
 #      102.54.94.97     rhino.acme.com          # source server
 #       38.25.63.10     x.acme.com              # x client host
 # localhost name resolution is handle within DNS itself.
-#       127.0.0.1       localhost
-#       ::1             localhost
-
 127.0.0.1 localhost
 ::1 localhost
 
