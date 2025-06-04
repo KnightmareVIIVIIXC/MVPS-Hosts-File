@@ -49,7 +49,7 @@ Blocking the example entry in your Hosts file prevents this ad server from loadi
 # localhost name resolution is handle within DNS itself.
 127.0.0.1 localhost
 ::1 localhost
-
+# 
 0.0.0.0 ad.domain.tld
 
 ```
